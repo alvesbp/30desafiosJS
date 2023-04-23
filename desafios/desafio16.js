@@ -1,3 +1,12 @@
+/*
+
+Instrução:Escreva uma funçao que recebe e uma string e um numero
+e retorne o resultado da aplicação da Cifra de Cesar para
+descriptografar o seu conteúdo, ou seja, que retroceda cada
+letra pelo número passado seguindo a ordem alfabética.
+
+*/
+
 //      --- MINHA RESPOSTA ---
 
 function codigoRomano(str, num) {
